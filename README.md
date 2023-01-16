@@ -2,7 +2,7 @@
 
 ## API
 
-`executar a API =>`
+# executar a API =>
 
 ```
 uvicorn main:app --reload
