@@ -2,10 +2,13 @@
 
 API
 
+executar a API => 
+```uvicorn main:app --reload```
+
 Endpoints:
 
-/redoc - Documentação Redoc
-/docs - Documentção Swagger
+- /redoc - Documentação Redoc
+- /docs - Documentção Swagger
 
 #
 
@@ -19,7 +22,7 @@ Tecnologias
 
   ### [`sobre FastApi`](https://www.treinaweb.com.br/blog/o-que-e-fastapi)
 
-- Uvcorn
+- Uvicorn
 
   ### [`doc`](https://www.uvicorn.org/)
 
