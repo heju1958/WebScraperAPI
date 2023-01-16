@@ -1,6 +1,8 @@
 <h1 align = "center">
-	Web Scraper API
+	<img src='https://www.svgrepo.com/svg/490910/scraper' alt='scraper' width='30px' height='30px'/> Web Scraper API
 </h1>
+
+
 
 ``Comando para executar a API:``
 
