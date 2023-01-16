@@ -23,10 +23,6 @@ uvicorn main:app --reload
 	Tecnologias
 </h3>
 
-<h4 align = "center">
-	> Python
-</h4>
-
 > Python
 
   ### [`doc`](https://docs.python.org/3/)
