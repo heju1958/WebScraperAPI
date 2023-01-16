@@ -8,7 +8,9 @@ executar a API =>
 uvicorn main:app --reload
 ```
 
-## Endpoints:
+<h2 align = "center">
+	Endpoints
+</h2>
 
 - /redoc - Documentação Redoc
 - /docs - Documentção Swagger
