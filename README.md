@@ -1,4 +1,6 @@
-# `Web Scraper API`
+<h1 align = "center">
+	`Web Scraper API`
+</h1>
 
 ## API
 
