@@ -1,21 +1,21 @@
 # `Web Scraper API`
 
-API
+## API
 
-executar a API =>
+`executar a API =>`
 
 ```
 uvicorn main:app --reload
 ```
 
-Endpoints:
+## Endpoints:
 
 - /redoc - Documentação Redoc
 - /docs - Documentção Swagger
 
 #
 
-Tecnologias
+## Tecnologias
 
 - Python
 
