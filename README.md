@@ -15,8 +15,8 @@ uvicorn main:app --reload
 </h3>
 
 
-- `` /redoc - Documentação Redoc ``
-- `` /docs - Documentção Swagger ``
+- `` GET -> /redoc - Documentação Redoc ``
+- `` GET -> /docs - Documentção Swagger ``
 	
 
 #
