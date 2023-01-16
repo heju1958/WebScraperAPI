@@ -8,18 +8,18 @@
 uvicorn main:app --reload
 ```
 
-<h2 align = "center">
+<h3 align = "center">
 	Endpoints
-</h2>
+</h3>
 
 - /redoc - Documentação Redoc
 - /docs - Documentção Swagger
 
 #
 
-<h2 align = "center">
+<h3 align = "center">
 	Tecnologias
-</h2>
+</h3>
 
 > Python
 
