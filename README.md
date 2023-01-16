@@ -36,6 +36,10 @@ uvicorn main:app --reload
 > Uvicorn
 
   ### [`doc`](https://www.uvicorn.org/)
+  
+  > Swagger
+
+  ### [`doc`](https://swagger.io/solutions/api-documentation/)
 
   #
 
