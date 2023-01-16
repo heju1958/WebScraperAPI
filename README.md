@@ -2,8 +2,11 @@
 
 API
 
-executar a API => 
-```uvicorn main:app --reload```
+executar a API =>
+
+```
+uvicorn main:app --reload
+```
 
 Endpoints:
 
