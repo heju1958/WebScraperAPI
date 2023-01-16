@@ -21,15 +21,15 @@ uvicorn main:app --reload
 	Tecnologias
 </h2>
 
-- Python
+> Python
 
   ### [`doc`](https://docs.python.org/3/)
 
-- FastApi
+> FastApi
 
   ### [`sobre FastApi`](https://www.treinaweb.com.br/blog/o-que-e-fastapi)
 
-- Uvicorn
+> Uvicorn
 
   ### [`doc`](https://www.uvicorn.org/)
 
