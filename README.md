@@ -12,8 +12,8 @@ uvicorn main:app --reload
 	Endpoints
 </h3>
 
-- /redoc - Documentação Redoc
-- /docs - Documentção Swagger
+`` /redoc - Documentação Redoc ``
+`` /docs - Documentção Swagger ``
 
 #
 
