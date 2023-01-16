@@ -4,7 +4,7 @@
 
 ## API
 
-executar a API =>
+``Comando para executar a API:``
 
 ```
 uvicorn main:app --reload
