@@ -19,7 +19,9 @@ uvicorn main:app --reload
 
 #
 
-## Tecnologias
+<h2 align = "center">
+	Tecnologias
+</h2>
 
 - Python
 
