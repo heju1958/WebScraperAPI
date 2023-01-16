@@ -2,8 +2,6 @@
 	Web Scraper API
 </h1>
 
-## API
-
 ``Comando para executar a API:``
 
 ```
