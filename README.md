@@ -1,5 +1,5 @@
 <h1 align = "center">
-	<img src='https://www.svgrepo.com/show/490910/scraper.svg' alt='scraper' width='30px' height='30px'/> Web Scraper API
+	<img src='https://www.svgrepo.com/show/490910/scraper.svg' alt='scraper' width='50px' height='50px'/> Web Scraper API
 </h1>
 
 
