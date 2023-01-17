@@ -2,9 +2,7 @@
 	Web Scraper API <img src='https://www.svgrepo.com/show/490910/scraper.svg' alt='scraper' width='50px' height='50px'/> 
 </h1>
 
-
-
-``Comando para executar a API:``
+`Comando para executar a API:`
 
 ```
 uvicorn main:app --reload
@@ -14,10 +12,9 @@ uvicorn main:app --reload
 	Endpoints
 </h3>
 
-
-- `` GET -> /redoc - Documentação Redoc ``
-- `` GET -> /docs - Documentção Swagger ``
-	
+- `GET -> /laptops - Lenovo, ordenando do mais barato para o mais caro`
+- `GET -> /redoc - Documentação Redoc`
+- `GET -> /docs - Documentção Swagger`
 
 #
 
@@ -36,7 +33,7 @@ uvicorn main:app --reload
 - Uvicorn
 
   ### [`doc`](https://www.uvicorn.org/)
-  
+
 - Swagger
 
   ### [`doc`](https://swagger.io/solutions/api-documentation/)
