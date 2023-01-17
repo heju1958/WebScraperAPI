@@ -12,6 +12,9 @@ uvicorn main:app --reload
 	Endpoints
 </h3>
 
+
+- `GET -> /redoc - Documentação Redoc`
+- `GET -> /docs - Documentção Swagger`
 - `GET -> /laptops - FORMATO DA REQUISIÇÃO - Lenovo, ordenando do mais barato para o mais caro`
 
 `FORMATO DA RESPOSTA - STATUS 200 - OK`
@@ -159,8 +162,6 @@ uvicorn main:app --reload
 }
 ```
 
-- `GET -> /redoc - Documentação Redoc`
-- `GET -> /docs - Documentção Swagger`
 
 #
 
